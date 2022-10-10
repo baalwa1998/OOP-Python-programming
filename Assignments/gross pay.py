@@ -1,8 +1,0 @@
-hours=input("Enter Hours:")
-int(hours)
-rate=input("Enter Rate:")
-int(rate)
-pay = int(hours) * int(rate) 
-int(pay)
-print("Pay:")
-print(pay)
